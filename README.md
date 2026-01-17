@@ -1,75 +1,72 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Nisarga+K+Shetty;AI+%2B+Blockchain+Architect;Security+%26+Fintech+Specialist;Building+Trustless+Systems&font=Fira+Code&weight=600&size=28&center=true&width=600&height=100&color=3ECF8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Nisarga+K+Shetty;AI+%2B+Blockchain+Enthusiast;Building+Next-Gen+Security+Apps;Passionate+Hackathon+Builder&font=Fira+Code&weight=600&size=28&center=true&width=600&height=100&color=3ECF8E" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nisarga-k-shetty/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 🔭 Expertise & Vision
-I am an engineer focused on the intersection of **Artificial Intelligence** and **Blockchain technology**. I build systems where security, consent, and data integrity are non-negotiable.
+### 🔭 Current Exploration
+I am an aspiring developer exploring the synergy between **Artificial Intelligence** and **Web3**. I focus on building MVPs that solve real-world problems regarding privacy and trust.
 
-* 🛡️ **Security:** Building AI-driven illegal activity detection and dark-web intelligence.
-* ⛓️ **Web3:** Implementing decentralized data consent and medical record integrity on-chain.
-* 📈 **FinTech:** Engineering fraud-resistant architectures for production-grade fintech apps.
+* 🛠️ **Current Projects:** Working on AI + Blockchain systems for decentralized data consent and medical record integrity.
+* 🛡️ **Cybersecurity:** Developing ML-based detection systems for illegal activity and dark-web intelligence.
+* 🌱 **Learning Path:** Deepening my knowledge in **Solidity**, **Advanced ML pipelines**, and **Secure System Architecture**.
 
 ---
 
-### 🛠️ Professional Tech Stack
+### 🛠️ Tech Stack by Domain
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI & Machine Learning</h4>
+      <h4>🤖 ML & Data Science (Learning)</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/MLflow-d9ead3?style=flat-square&logo=mlflow&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>⛓️ Blockchain & Web3</h4>
+      <h4>⛓️ Web3 & Blockchain (Exploring)</h4>
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ether.js-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-      <img src="https://img.shields.io/badge/Smart_Contracts-gray?style=flat-square&logo=gitbook&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=ethereum&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Fullstack & Backend</h4>
+      <h4>💻 Fullstack Development</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>💾 Infrastructure & Cloud</h4>
+      <h4>⚙️ Tools & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤝 Engagement
-* 👯 **Collaborations:** Hackathon-scale projects in Web3, Fraud Detection, and Privacy.
-* 💬 **Consultation:** Ask me about Smart Contract design, ML pipelines, and building MVPs.
-* 🌱 **Learning:** Currently diving deeper into Scalable System Architecture and Advanced Solidity.
+### 👯 Collaboration & Help
+* 🤝 **Open for:** Hackathons involving Blockchain, Fintech, and Cybersecurity.
+* 🚀 **Seeking Help:** Improving ML model robustness and scaling system architectures for Web3.
+* 💬 **Ask Me About:** Solidity basics, building Next.js apps, and hackathon project structuring.
 
 ---
 
-### 📊 System Analytics
+### 📊 My GitHub Journey
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NisargaK-21&show_icons=true&theme=transparent&title_color=3ECF8E&text_color=ffffff&icon_color=3ECF8E&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargaK-21&layout=compact&theme=transparent&title_color=3ECF8E&text_color=ffffff&hide_border=true" width="45%" />
