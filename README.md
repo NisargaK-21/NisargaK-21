@@ -120,9 +120,8 @@ I’m open to collaborating on:
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NisargaK-21\&theme=dark\&hide_border=true)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=NisargaK-21\&theme=dark\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NisargaK-21\&layout=compact\&theme=dark\&hide_border=true)
+
 
 ---
 
@@ -132,4 +131,3 @@ I’m open to collaborating on:
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=NisargaK-21\&icon=0\&color=0)
