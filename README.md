@@ -66,14 +66,7 @@ I am an aspiring developer exploring the synergy between **Artificial Intelligen
 ---
 
 ### 📊 My GitHub Journey
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargaK-21&layout=compact&theme=transparent&title_color=3ECF8E&text_color=ffffff&hide_border=true" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NisargaK-21&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=NisargaK-21&icon=5&color=2" alt="Visitor Count" />
 </p>
