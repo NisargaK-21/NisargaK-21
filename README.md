@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Nisarga+K+Shetty;AI+%2B+Blockchain+Enthusiast;Building+Next-Gen+Security+Apps;Passionate+Hackathon+Builder&font=Fira+Code&weight=600&size=28&center=true&width=600&height=100&color=3ECF8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Nisarga+K+Shetty;AI+%2B+Blockchain+Enthusiast;Passionate+Hackathon+Builder&font=Fira+Code&weight=600&size=28&center=true&width=600&height=100&color=3ECF8E" alt="Typing SVG" />
 </p>
 
 <p align="center">
