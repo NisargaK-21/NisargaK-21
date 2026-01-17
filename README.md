@@ -52,7 +52,6 @@ I am an aspiring developer exploring the synergy between **Artificial Intelligen
       <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -68,7 +67,6 @@ I am an aspiring developer exploring the synergy between **Artificial Intelligen
 
 ### 📊 My GitHub Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NisargaK-21&show_icons=true&theme=transparent&title_color=3ECF8E&text_color=ffffff&icon_color=3ECF8E&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargaK-21&layout=compact&theme=transparent&title_color=3ECF8E&text_color=ffffff&hide_border=true" width="45%" />
 </p>
 
