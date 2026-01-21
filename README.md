@@ -61,7 +61,6 @@ I am an aspiring developer exploring the synergy between **Artificial Intelligen
 ### 👯 Collaboration & Help
 * 🤝 **Open for:** Hackathons involving Blockchain, Fintech, and Cybersecurity.
 * 🚀 **Seeking Help:** Improving ML model robustness and scaling system architectures for Web3.
-* 💬 **Ask Me About:** Solidity basics, building Next.js apps, and hackathon project structuring.
 
 ---
 
