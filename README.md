@@ -64,8 +64,3 @@ I am an aspiring developer exploring the synergy between **Artificial Intelligen
 
 ---
 
-### 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NisargaK-21&theme=tokyonight&hide_border=true" />
-</p>
