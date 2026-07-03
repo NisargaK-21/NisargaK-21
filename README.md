@@ -2,13 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Nisarga%20K%20Shetty&fontSize=46&fontColor=E2E8F0&fontAlignY=38&animate=true" />
 
-<br/>
 
-<a href="https://www.linkedin.com/in/nisarga-k-shetty/">
- 
-</a>
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/nisarga-k-shetty/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/NisargaK-21"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
