@@ -1,3 +1,19 @@
+<!--
+  ============================================================
+  GITHUB PROFILE README — Nisarga K Shetty (NisargaK-21)
+  ============================================================
+  HOW TO USE
+  1. This file must live in a repo named exactly "NisargaK-21"
+     (i.e. github.com/NisargaK-21/NisargaK-21) as README.md.
+  2. Every widget below already points to your real username —
+     you do not need to change anything to make it work.
+  3. Search for "REPLACE" comments if you want to swap in your
+     email, resume link, or add new featured projects later.
+  4. The Contribution Snake needs a one-time GitHub Actions setup
+     — instructions are in the comment right above that section.
+  ============================================================
+-->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Nisarga%20K%20Shetty&fontSize=46&fontColor=E2E8F0&fontAlignY=38&animation=fadeIn&desc=Building%20at%20the%20intersection%20of%20AI%2C%20Blockchain%20%26%20Full-Stack%20Engineering&descAlignY=58&descSize=16&descColor=94A3B8" />
@@ -12,6 +28,9 @@
 
 <a href="https://www.linkedin.com/in/nisarga-k-shetty/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/NisargaK-21"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- REPLACE: add a mailto badge if you'd like your email public
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+-->
 
 </div>
 
@@ -229,6 +248,40 @@ Beyond my own projects, I contribute fixes and features to external repositories
 
 ---
 
+<!--
+  CONTRIBUTION SNAKE — one-time setup required.
+  1. In this repo (NisargaK-21/NisargaK-21), add a file at
+     .github/workflows/snake.yml with the contents below.
+  2. Push it. It runs daily and generates the SVG this section displays.
+
+  ---
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch: {}
+    push:
+      branches: [ main ]
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: NisargaK-21
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ---
+-->
 
 ## Contribution Snake
 
