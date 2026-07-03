@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=pink,pink&height=200&section=header&text=Nisarga%20K%20Shetty&fontSize=46&fontColor=pink&fontAlignY=38&animate=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Nisarga%20K%20Shetty&fontSize=46&fontColor=E2E8F0&fontAlignY=38&animate=true" />
 
 
 
@@ -43,10 +43,10 @@ I'm a software engineer building scalable applications with a focus on **blockch
 
 | Repository | Contribution | Status |
 |-----------|-------------|--------|
-| [`microsoft/react-native-windows`](https://github.com/microsoft/react-native-windows) | C++ codegen include path fix | ✅ Merged |
+| [`microsoft/react-native-windows`](https://github.com/microsoft/react-native-windows) | C++ codegen include path fix | ✅ Merged 
 | [`microsoft/react-native-gallery`](https://github.com/microsoft/react-native-gallery) | Screen-reader accessibility improvements | ✅ Merged |
 | [`qgis/QGIS-UG-India`](https://github.com/qgis/QGIS-UG-India) | Event content and documentation | ✅ Merged |
-| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | UI themes and content updates | ✅ Merged (6 PRs) |
+| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | UI themes and content updates | ✅ Merged |
 
 ---
 ## Collaboration
