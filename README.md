@@ -49,13 +49,13 @@ I'm a software engineer building scalable applications with a focus on **blockch
 | [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | UI themes and content updates | ✅ Merged (6 PRs) |
 
 ---
+## Collaboration
 
-## Currently Learning
-
-- Smart Contract Security & Auditing
-- System Design & Architecture
-- Distributed Systems
-
+* Open to collaborating on **AI/ML**, **Python**, **Blockchain**, **FinTech**, **Cybersecurity**, and **Full-Stack Development** projects.
+* Actively participating in **hackathons**, **open-source contributions**, and innovative projects that solve real-world problems.
+* Passionate about building **AI-powered applications**, **LLM-based solutions**, **Agentic AI**, **Machine Learning models**, **secure Web3 platforms**, **scalable backend systems**, and **cloud-native applications**.
+* Always excited to collaborate with developers, researchers, and innovators to build impactful, production-ready software.
+  
 <div align="center">
 
 <br/>
