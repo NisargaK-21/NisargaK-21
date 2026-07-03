@@ -13,11 +13,11 @@
 
 ## About Me
 
-I'm a software engineer building scalable applications with a focus on **blockchain technology, full-stack development, and security-conscious systems**. I prioritize shipping working products and contributing to real-world projects.
+I'm a software engineer building scalable applications with a focus on **full-stack development, blockchain technology, and security-conscious systems**. I prioritize shipping working products and contributing to real-world projects.
 
 **Core Areas:**
-- **Web3 & Blockchain** : Smart contracts, decentralized applications, Ethereum integration
 - **Full-Stack Development** : End-to-end application architecture from database to frontend
+- **Web3 & Blockchain** : Smart contracts, decentralized applications, Ethereum integration
 - **Security** : Privacy-first design, access control, secure data handling
 - **Open Source** : Contributions to Microsoft and other organizations
 
