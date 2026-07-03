@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/nisarga-k-shetty/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Web3+%26+Blockchain;Full-Stack+Development" />
+ 
 </a>
 
 <br/><br/>
@@ -22,10 +22,10 @@
 I'm a software engineer building scalable applications with a focus on **blockchain technology, full-stack development, and security-conscious systems**. I prioritize shipping working products and contributing to real-world projects.
 
 **Core Areas:**
-- 🔐 **Web3 & Blockchain** — Smart contracts, decentralized applications, Ethereum integration
-- 💻 **Full-Stack Development** — End-to-end application architecture from database to frontend
-- 🛡️ **Security** — Privacy-first design, access control, secure data handling
-- 🌍 **Open Source** — Contributions to Microsoft and other organizations
+- 🔐 **Web3 & Blockchain** : Smart contracts, decentralized applications, Ethereum integration
+- 💻 **Full-Stack Development** : End-to-end application architecture from database to frontend
+- 🛡️ **Security** : Privacy-first design, access control, secure data handling
+- 🌍 **Open Source** : Contributions to Microsoft and other organizations
 
 ---
 
@@ -42,19 +42,6 @@ I'm a software engineer building scalable applications with a focus on **blockch
 **Data & ML:** MongoDB, SQLite, scikit-learn, supervised learning
 
 **Tools:** Git, GitHub, VS Code, Postman, Vercel, Railway
-
----
-
-## Featured Projects
-
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| **[DataConsent](https://github.com/NisargaK-21/finaldataconsent)** | Solidity, Ethereum, Next.js | Blockchain protocol for digital privacy with immutable on-chain consent management |
-| **[Medichain](https://github.com/NisargaK-21/Medichain)** | Web3.js, Smart Contracts, React | Decentralized healthcare platform with wallet auth and secure medical records storage |
-| **[SettleTrack](https://github.com/NisargaK-21/Settletrack)** | JavaScript, ML, Web3 | Blockchain trade settlement system with real-time risk analysis |
-| **[Devino](https://github.com/NisargaK-21/Devino)** | JavaScript, React | Gamified learning platform for building full-stack business websites |
-| **[micro-dark](https://github.com/NisargaK-21/micro-dark)** | Python, FastAPI | Text classification system for detecting illegal promotional language patterns |
-| **[CarbonFootprint](https://github.com/NisargaK-21/carbonfootprint)** | JavaScript, React | Web application for calculating and tracking carbon emissions data |
 
 ---
 
