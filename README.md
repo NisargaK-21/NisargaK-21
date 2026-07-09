@@ -94,14 +94,17 @@ I'm a software engineer building scalable applications with a focus on **full-st
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NisargaK-21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<br/>
+<br/>
 <img width="49%" src="https://streak-stats.demolab.com?user=NisargaK-21&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
 </div>
 
 ---
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NisargaK-21&theme=github-dark&hide_border=true"/>
 
 ## Collaboration
 
