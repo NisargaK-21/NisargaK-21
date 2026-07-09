@@ -95,7 +95,7 @@ I'm a software engineer building scalable applications with a focus on **full-st
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NisargaK-21&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=NisargaK-21&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=NisargaK-21&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
