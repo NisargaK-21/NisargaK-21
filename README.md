@@ -113,9 +113,6 @@ I'm a software engineer building scalable applications with a focus on **full-st
 <br/>
 
 <div align="center">
-
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/nisarga-k-shetty/)** or check out my work on **[GitHub](https://github.com/NisargaK-21)**
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=120&section=footer" />
