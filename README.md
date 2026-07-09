@@ -24,7 +24,7 @@ I'm a software engineer building scalable applications with a focus on **full-st
 ---
 
 <div align="center">
-<img src="./assets/ai-workstation.gif" width="700"/>
+<img src="./assets/ai-workstation.gif" width="700 height=400" alt="AI Workstation"/>
 </div>
 
 ## Tech Stack
