@@ -9,21 +9,28 @@
 
 <br/>
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a software engineer building scalable applications with a focus on **full-stack development, blockchain technology, and security-conscious systems**. I prioritize shipping working products and contributing to real-world open-source projects.
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm a tech enthusiast passionate about building full-stack applications, exploring blockchain technology, and developing secure, scalable software. I enjoy turning ideas into functional projects while continuously learning through open source and hackathons.
 
 - 🔭 Currently building end-to-end applications spanning database, backend, and frontend
 - 🌐 Exploring **Web3** — smart contracts, decentralized apps, and Ethereum integration
 - 🔐 Interested in **privacy-first design** and secure data handling
 - 🤝 Actively contributing to open source (Microsoft, QGIS, and community projects)
 
----
-<br/>
+</td>
 
-<div align="center">
-  <img src="./assets/ai-workstation.gif" height="350"/>
-</div>
+<td width="42%" align="center">
+
+<img src="./assets/ai-workstation.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -98,20 +105,16 @@ I'm a software engineer building scalable applications with a focus on **full-st
 <br/>
 <img width="49%" src="https://streak-stats.demolab.com?user=NisargaK-21&theme=tokyonight&hide_border=true"/>
 
-<br>
 
 </div>
 
 ---
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NisargaK-21&theme=github-dark&hide_border=true"/>
-
 ## Collaboration
 
-- Open to collaborating on **AI/ML**, **Python**, **Blockchain**, **FinTech**, **Cybersecurity**, and **Full-Stack Development** projects
-- Actively participating in **hackathons**, **open-source contributions**, and projects solving real-world problems
-- Passionate about **AI-powered applications**, **LLM-based solutions**, **Agentic AI**, secure **Web3 platforms**, and scalable backend systems
-- Always excited to connect with developers, researchers, and innovators building impactful, production-ready software
+- Interested in AI, Machine Learning, Blockchain, and Full-Stack Development
+- Enjoy building practical applications using modern web technologies
+- Always open to collaborating on innovative projects and open-source contributions
 
 <br/>
 
