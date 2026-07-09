@@ -23,6 +23,8 @@ I'm a software engineer building scalable applications with a focus on **full-st
 
 ---
 
+<img src="https://in.pinterest.com/pin/155092780913868153/" />
+
 ## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, Solidity, HTML, CSS
