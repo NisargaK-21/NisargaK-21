@@ -14,7 +14,7 @@
 >I enjoy turning ideas into practical projects while continuously learning through open source and hackathons.
 
 - Currently building end-to-end applications spanning database, backend, and frontend
-- Exploring **Web3** — smart contracts, decentralized apps, and Ethereum integration
+- Exploring **Web3**, smart contracts, decentralized apps, and Ethereum integration
 - Interested in **privacy-first design** and secure data handling
 - Actively contributing to open source (Microsoft, QGIS, and community projects)
 <div align="center">
