@@ -70,18 +70,6 @@
 </div>
 
 ---
-
-## Open Source Contributions
-
-| Repository | Contribution | Status |
-|---|---|---|
-| [`microsoft/react-native-windows`](https://github.com/microsoft/react-native-windows) | C++ codegen include path fix | ✅ Merged |
-| [`microsoft/react-native-gallery`](https://github.com/microsoft/react-native-gallery) | Screen-reader accessibility improvements | ✅ Merged |
-| [`qgis/QGIS-UG-India`](https://github.com/qgis/QGIS-UG-India) | Event content and documentation | ✅ Merged |
-| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | UI themes and content updates | ✅ Merged |
-
----
-
 ## GitHub Analytics
 
 <div align="center">
